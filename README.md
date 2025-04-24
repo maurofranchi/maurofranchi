@@ -3,11 +3,11 @@
 <!--
 **maurofranchi/maurofranchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-.NET Backend Engineer with 13 years of experience.
-You won't find many interasting stuff at the moment 😅 but I am planning to release part of the code I am building for my Unity3D game (if I ever make it 🙄).
+.NET Backend Engineer with 17+ years of experience.
+You won't find many interasting stuff at the moment 😅.
 
-- 🔭 I’m currently working on a 2.5D CharacterController for my dream game I started designing 3 years ago
-- 🌱 I’m currently learning Unity3d
+- 🔭 I wanted to do some nay things with unity 3D but, as you can see, nothing really happened 🤷‍♂️
 - 😄 Pronouns: him/He
 - 🎮 I love videogames
+- 👨‍🍳 I love baking
 
